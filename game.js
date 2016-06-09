@@ -108,7 +108,7 @@ var matches = 0
 var url = []
 // push images into the url
 for (var i = 0; i < 8; i++) {
-  var dir = './Images/download' + (i + 1) + '.jpeg'
+  var dir = './Images/download' + (i + 1) + '.png'
   url.push(dir)
   url.push(dir)
 }
